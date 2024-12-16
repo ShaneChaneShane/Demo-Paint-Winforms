@@ -1,0 +1,31 @@
+layers manipulation
+
+I have Layers List<Layer>
+the index indicate from back to front, [0] being at the very back and [Layers.count-1] being at the front.
+
+Layers manipulation feature that I want to implement is,
+1. Add and remove layer
+	when add: Layer object is added to be the front layer. So .add() works
+	*** the problem with add layer: the name of the layer. I want it to keep the sequence of number pattern. example:
+			List<Layer> Layers = { layer1, layer2, layer3, layer4}
+			// when remove layer 2//
+			{ layer1, layer3, layer4 }
+			// I want the name, when add a new layer, to be//
+			{ layer1, layer3, layer4, layer2}
+			// so basically keep the index as usual when adding a member to a list but keep the layer's name filling the incomplete 1,2,3,...,n pattern.
+
+	when remove: .remove() works (just remove the layer object from Layers list)
+2. select layer visibility
+	visible layers, all strokes will be drawn onto its bitmap normally as the already implemented foreach loop
+	invisible layers, there will be If-statement to check if the current layer in foreach loop is one of member of the invisible layers or not. If yes, it will skip the entire drawing strokes on bitmap and skip drawing the bitmap on e.graphics too.
+3. Change order of layer in Layers list
+	create a method to swap index of 2 layer objects in Layers list.
+
+
+
+
+
+
+
+
+

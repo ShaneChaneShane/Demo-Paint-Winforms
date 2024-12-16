@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|e:\\microsoft visual studio\\file\\paint test 2 - copy\\demo-paint-winforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|solutionrelative:demo-paint-winforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\demo-paint-winforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|solutionrelative:demo-paint-winforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\demo-paint-winforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|solutionrelative:demo-paint-winforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\brushcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:brushcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\demo-paint-winforms.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|Demo-Paint-Winforms.csproj|solutionrelative:demo-paint-winforms.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\layermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:layermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\layerrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:layerrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\layers manipulation.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:layers manipulation.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\toolsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F84BDC7-3252-404B-9801-4FDF129BB914}|paint test 2 copy.csproj|solutionrelative:toolsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 263,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:36:08.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo-Paint-Winforms.cs [Design]",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.cs",
+              "RelativeDocumentMoniker": "Demo-Paint-Winforms.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.cs [Design]",
+              "RelativeToolTip": "Demo-Paint-Winforms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:08:36.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo-Paint-Winforms.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.cs",
+              "RelativeDocumentMoniker": "Demo-Paint-Winforms.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.cs",
+              "RelativeToolTip": "Demo-Paint-Winforms.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwCwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:45:38.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrushColor.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\BrushColor.cs",
+              "RelativeDocumentMoniker": "BrushColor.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\BrushColor.cs",
+              "RelativeToolTip": "BrushColor.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:53:31.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo-Paint-Winforms.Designer.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.Designer.cs",
+              "RelativeDocumentMoniker": "Demo-Paint-Winforms.Designer.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.Designer.cs",
+              "RelativeToolTip": "Demo-Paint-Winforms.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:15:38.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Layer.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Layer.cs",
+              "RelativeDocumentMoniker": "Layer.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Layer.cs",
+              "RelativeToolTip": "Layer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:44:14.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:35:52.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stroke.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Stroke.cs",
+              "RelativeDocumentMoniker": "Stroke.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Stroke.cs",
+              "RelativeToolTip": "Stroke.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:54:00.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Demo-Paint-Winforms.resx",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.resx",
+              "RelativeDocumentMoniker": "Demo-Paint-Winforms.resx",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\Demo-Paint-Winforms.resx",
+              "RelativeToolTip": "Demo-Paint-Winforms.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-12T09:15:40.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LayerManager.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\LayerManager.cs",
+              "RelativeDocumentMoniker": "LayerManager.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\LayerManager.cs",
+              "RelativeToolTip": "LayerManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:44:14.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LayerRenderer.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\LayerRenderer.cs",
+              "RelativeDocumentMoniker": "LayerRenderer.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\LayerRenderer.cs",
+              "RelativeToolTip": "LayerRenderer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:27:59.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "layers manipulation.txt",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\layers manipulation.txt",
+              "RelativeDocumentMoniker": "layers manipulation.txt",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\layers manipulation.txt",
+              "RelativeToolTip": "layers manipulation.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T09:37:31.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToolSize.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\ToolSize.cs",
+              "RelativeDocumentMoniker": "ToolSize.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\File\\paint test 2 - Copy\\ToolSize.cs",
+              "RelativeToolTip": "ToolSize.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:44:14.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
